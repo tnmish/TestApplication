@@ -1,0 +1,13 @@
+{
+  "ConnectionString": "Host=localhost;Port=5432;Database=testdb;Username=postgres;Password=password",
+  "Mail": {
+    "FromAddress": "somemail@gmail.com",
+    "FromName": "TestApplication",
+    "MailServerAddress": "localhost",
+    "MailServerPort": 1025
+  },
+  "Telegram": {
+    "Token": "sample_token",
+    "Host": "http://localhost:9000"
+  }
+}
